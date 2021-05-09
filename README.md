@@ -9,7 +9,7 @@
 
 [![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikfloresq&layout=compact&theme=dark)](https://github.com/erikfloresq/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikfloresq&layout=compact&theme=dark&hide=python,c)](https://github.com/erikfloresq/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikfloresq&layout=compact&theme=dark)](https://github.com/erikfloresq/github-readme-stats)
 
 
 
