@@ -1,7 +1,7 @@
 
 ### Hi, I'm Erik 🙃
 
-- 📚  Learning Flutter 
+- 📚  Learning SwiftUI and Flutter sometines 
 - 📱  I develop a simple app called [Verbs!][1] ( because I didn't found a simple app for practice verbs in their differents forms 🤷🏻‍♂️ and because I'm developer 😆 )(currently out of the store)
 - Also in android [Verbs!][2] (I've replicated the same app because I've concider it was a good chance to learn the basics of android)
 
